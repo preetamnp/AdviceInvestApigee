@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><APIProxy name="investmentRiskAdviceApi" revision="1">
+    <Basepaths>/investmentriskadviceapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1571999606349</CreatedAt>
+    <CreatedBy>preetam.potadar@cognizant.com</CreatedBy>
+    <Description>preetampotdar git revision unknown Preetams-MacBook-Air.local ::investment Risk Advice</Description>
+    <DisplayName>investmentRiskAdviceApi</DisplayName>
+    <LastModifiedAt>1571999606349</LastModifiedAt>
+    <LastModifiedBy>preetam.potadar@cognizant.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:3844d88ddbc300cd5ce85cb9061a18616ffd2d3e5b7cda820e8b2939901b540d9b871b15616c30706e0f2c39fde07957e983f0a019a56053225aea19b0b4ee9d</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
