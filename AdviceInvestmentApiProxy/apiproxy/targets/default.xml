@@ -13,6 +13,6 @@
     <Flows/>
     <HTTPTargetConnection>
         <Properties/>
-        <URL>http://bb7d75a1.ngrok.io</URL>
+        <URL>https://tender-kangaroo-45.localtunnel.me</URL>
     </HTTPTargetConnection>
 </TargetEndpoint>
